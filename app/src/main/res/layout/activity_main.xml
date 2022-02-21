@@ -99,9 +99,28 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/altsignin"
         android:gravity="center"
-        android:paddingTop="5dp"
+        android:paddingTop="5dp" >
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/AmazonLogo"
+        android:layout_margin="20dp"
+        />
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/FacebookLogo"
+        android:layout_margin="20dp"
+        />
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/GoogleLogo"
         />
 
+
+    </LinearLayout>
 
 
 
