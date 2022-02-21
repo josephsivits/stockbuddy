@@ -1,0 +1,2 @@
+# stockbuddy
+Capstone project
