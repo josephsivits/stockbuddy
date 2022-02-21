@@ -103,20 +103,20 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
-        android:src="@drawable/AmazonLogo"
+        android:src="@drawable/amazon_logo"
         android:layout_margin="20dp"
         />
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
-        android:src="@drawable/FacebookLogo"
+        android:src="@drawable/facebook_logo"
         android:layout_margin="20dp"
         />
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
         android:layout_margin="20dp"
-        android:src="@drawable/GoogleLogo"
+        android:src="@drawable/google_logo"
         />
 
 
